@@ -3,7 +3,7 @@ class NODE:
         self.data =data
         self.next = None
         
-class single_linkedlist:
+class Single_linkedlist:
     def __init__(self):
         self.head =None
         
@@ -113,7 +113,7 @@ class single_linkedlist:
             print(c)
               
         
-sl =single_linkedlist()
+sl =Single_linkedlist()
 
 
 while True:

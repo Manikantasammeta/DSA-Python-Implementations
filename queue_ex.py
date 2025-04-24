@@ -1,4 +1,4 @@
-class queue:
+class Queue:
     def __init__(self):
         self.bikes =[]
         self.cars =[]
@@ -48,7 +48,7 @@ class queue:
         print("length of bikes-->",len(self.bikes))
         
         
-q=queue()
+q=Queue()
 
 
 while True:
